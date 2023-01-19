@@ -1,4 +1,6 @@
-# 2UnifyEducation
+# epics@asu: 2Unify Education
+Arizona State University (ASU) Engineering Projects in Community Service (EPICS)
+2Unify Education (pending reorganization as Jetson Infinity for Education)
 
 ## Dependencies
 * xArmServoController (`xarm`)
